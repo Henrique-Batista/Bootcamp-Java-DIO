@@ -15,7 +15,11 @@ Criar uma lista de pokemons com base no modelo fornecido.
 
 ### V 1.0:
 
-- Criei o site como http-server
+- Criei o site com o http-server
 - Criei a estrutura de pastas assets/js e assets/css para separar os tipos de arquivos
 - Customizei o site adicionando uma lista de pokemons
 - Alterei a lista para parecer mais proximo ao objetivo do projeto
+
+### V 2.0:
+
+- Adicionado o estilo dos pokemons na lista
