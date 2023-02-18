@@ -23,3 +23,11 @@ Criar uma lista de pokemons com base no modelo fornecido.
 ### V 2.0:
 
 - Adicionado o estilo dos pokemons na lista
+
+### V 3.0:
+
+* ultima versão estática 
+
+- adicionado responsividade a aplicação
+
+
