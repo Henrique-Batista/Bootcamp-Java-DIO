@@ -30,4 +30,10 @@ Criar uma lista de pokemons com base no modelo fornecido.
 
 - adicionado responsividade a aplicação
 
+### V 4.0:
 
+* Projeto finalizado
+
+- adicionado mudança de cor conforme tipo
+- adicionado botão de paginação
+- corrigiddo os números de id de pokemon
